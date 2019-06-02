@@ -1,3 +1,5 @@
+//-Write a Java program to return a new string using every characters of even positions from a given string.
+
 package week5;
 
 import java.util.Scanner;

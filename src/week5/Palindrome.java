@@ -1,3 +1,5 @@
+// Write a program to check a word is palindrome or not
+
 package week5;
 
 public class Palindrome {

@@ -1,3 +1,5 @@
+// Find biggest smallest and middle element(s) of an array.
+
 package week5;
 
 public class ArrayAnalyzer {

@@ -1,3 +1,5 @@
+// find sum of prime numbers up to a given limit
+
 package week5;
 
 import java.util.Scanner;

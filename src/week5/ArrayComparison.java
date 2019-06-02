@@ -1,3 +1,5 @@
+//compare 2 array and find common elements
+
 package week5;
 
 public class ArrayComparison {

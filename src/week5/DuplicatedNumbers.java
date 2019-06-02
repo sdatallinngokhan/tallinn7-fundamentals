@@ -1,3 +1,5 @@
+// Find duplicated numbers from a given array
+
 package week5;
 
 import java.util.HashSet;

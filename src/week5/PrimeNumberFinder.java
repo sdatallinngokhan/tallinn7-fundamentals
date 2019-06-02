@@ -1,3 +1,5 @@
+// write a program to check a number is prime or not
+
 package week5;
 
 public class PrimeNumberFinder {

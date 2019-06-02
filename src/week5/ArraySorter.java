@@ -1,3 +1,5 @@
+// Sort an integer array from smallest to biggest
+
 package week5;
 
 public class ArraySorter {

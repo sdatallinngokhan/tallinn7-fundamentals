@@ -1,9 +1,6 @@
 package week5;
 
-import java.util.ArrayList;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Set;
+import java.util.*;
 
 public class JavaCollections {
 
@@ -34,6 +31,19 @@ public class JavaCollections {
         numberSet.add(3);
         numberSet.add(8);
         System.out.println("Set : " + numberSet);
+    }
+
+    public void learnMap() {
+        Map<String, Integer> lettersMap = new HashMap<>();
+
+        lettersMap.put("H", 1);
+        lettersMap.put("e", 1);
+        lettersMap.put("l", 3);
+        lettersMap.put("o", 2);
+
+        for (String letter : lettersMap.keySet()) {
+            System.out.println(lettersMap.get(letter));
+        }
     }
 
     public static void main(String[] args) {
